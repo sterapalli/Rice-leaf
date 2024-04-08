@@ -8,6 +8,7 @@ Task3:- Analyze various techniques like Data Augmentation, etc and create a
 report on that.
 
 **Dataset Link:**
+
 This dataset contains 120 jpg images of disease-infected rice leaves. The images are grouped into 3
 classes based on the type of disease. There are 40 images in each class.
 Classes
